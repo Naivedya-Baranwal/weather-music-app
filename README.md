@@ -28,6 +28,12 @@
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Try the App Live](https://weather-music-app-naivedya-baranwals-projects.vercel.app/)
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository:
