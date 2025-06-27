@@ -1,0 +1,25 @@
+.img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.container{
+    position: relative;
+    background: linear-gradient(135deg, #c3ec52 0%, #0ba29d 100%);
+    padding: 16px;
+    background: #22C1C3;
+    background:linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+    backdrop-filter: blur(10px);
+}
+.heading{
+  text-align: center;
+  font-size: 2rem;
+}
+.cardContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 16px;
+}
